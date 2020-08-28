@@ -1,0 +1,1 @@
+# Smart-Gate-Entry-Database-Management-System
